@@ -1,7 +1,7 @@
 {
-  "sitetitle": "NoseJS",
-  "tagline":"Get a head by a NoseJS!",
-	"palette": "pistachiocream",
+  "sitetitle": "ChaosHex",
+  "tagline":"Hacking Reality Since 1996.",
+	"palette": "cherrypie",
   "theme": "trollfell",
 
 	"themeoptions": {
@@ -11,19 +11,15 @@
 
 	"modules": ["markdown","html","text","rss","chaoshex","enigmagick"],
 
-	"firstpage": {"type": "html", "args": ["nosejs.html"]},
+	"firstpage": {"type": "html", "args": ["about.html"]},
 
 	"menu": [
-    {"label": "NoseJS", "type": "html", "args": ["nosejs.html"]},
-    {"label": "Markdown", "type": "markdown", "args": ["markdown.md"]},
-    {"label": "Files", "type": "text", "args": ["markdown.md"]},
-    {"label": "ChaosHex", "type": "chaoshex", "args": [""]},
-    {"label": "EnigMagick", "type": "enigmagick", "args": [""]},
-    {"label": "RSS Feed", "type": "rss", "args": {"feed": "blahaj"}}
+    {"label": "About", "type": "html", "args": ["about.html"]},
+    {"label": "ChaosHex", "type": "chaoshex", "args": [""]}
   ],
 
 	"socialmenu": {
-		"github": "https://github.com/widmoinc/nosejs/",
+		"github": "https://github.com/toniwidmo/chaoshex.net/",
 		"linkedin": "",
 		"twitter": "",
 		"facebook": "",
@@ -31,7 +27,7 @@
 		"stackoverflow": "",
 		"link_url": "",
 		"email": "",
-		"fediverse": "@toni@blahaj.zone"
+		"fediverse": ""
 	},
 
 	"moduleoptions": [
