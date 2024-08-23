@@ -1,8 +1,8 @@
 {
   "sitetitle": "ChaosHex",
   "tagline":"Hacking Reality Since 1996.",
-	"palette": "cherrypie",
-  "theme": "trollfell",
+	"palette": "chocberry",
+  "theme": "fluxstate",
 
 	"themeoptions": {
 		"banner_image": "",
@@ -35,6 +35,7 @@
 	],
 
 	"data_sources": {
+		"enigmagick": ["enigmagick_api", "https://enigmagick.net/rest/"],
 		"blahaj": ["rss", "https://blahaj.zone/@toni.rss"]
 	},
 
